@@ -3,9 +3,9 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
+ }
